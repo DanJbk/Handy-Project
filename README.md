@@ -1,3 +1,4 @@
+
 The purpose of this project is to create a working solution for interaction between people and computers. The project aims to provide an intuitive and relatively cheap alternative that allows precise movement in real time. It harnesses Machine-learning architecture to extract hand and joint poses from a live input stream of RGB images then map them to a joystick coordinate output. This allows the user to emulate joystick input to the system by tilting his/her hand in front of the camera.
 
 The project consists of two networks. 
@@ -10,3 +11,4 @@ The system is fast enough to work in real time, and is functional in various con
 
 This method is reliable and accurate enough for usage in many applications. The tracking works in various environments and types of hands, and requires only minor adjustments to be comfortably used  by different users.
 
+![output](https://user-images.githubusercontent.com/16742856/132984564-d018f307-5f58-4a0d-843f-dd1d946841aa.png)
