@@ -11,4 +11,4 @@ The system is fast enough to work in real time, and is functional in various con
 
 This method is reliable and accurate enough for usage in many applications. The tracking works in various environments and types of hands, and requires only minor adjustments to be comfortably used  by different users.
 
-![output](https://user-images.githubusercontent.com/16742856/132984564-d018f307-5f58-4a0d-843f-dd1d946841aa.png)
+![NVIDIA_Share_tyRxCW1D3F](https://user-images.githubusercontent.com/16742856/139033101-31c68a81-0bfe-49ad-b556-c53d70d72a4f.jpg)
